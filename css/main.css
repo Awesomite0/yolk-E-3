@@ -1,0 +1,19 @@
+body{
+font-family: 'Open Sans', sans-serif;
+}
+
+h1{
+	font-family: 'Oldenburg', cursive;
+}
+
+footer{
+	background-color: #D3E38A;
+	position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: white;
+}
+ footer img{
+ 	height: 50px;
+ }
